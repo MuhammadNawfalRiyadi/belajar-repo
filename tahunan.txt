@@ -1,5 +1,6 @@
 Belanja Tahunan:
 
-1. Meja
-2. Kursi
-3. Gelas Berlian
+1. Kursi
+2. Gelas Berlian
+3. kopi
+4. teh
